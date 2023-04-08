@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895633310054",
+    "firebase_url": "https://favfood-99554-default-rtdb.firebaseio.com",
+    "project_id": "favfood-99554",
+    "storage_bucket": "favfood-99554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895633310054:android:6687359f1f9f724b6648a7",
+        "android_client_info": {
+          "package_name": "com.example.favfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895633310054-2k989scmv4obitu91ihiv27klfu88dbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.favfood",
+            "certificate_hash": "f9ae0b1a179aed894eea2f2c00a0c6c8f937ce3f"
+          }
+        },
+        {
+          "client_id": "895633310054-dolr75hlkamik90dtbgq6qfj3kn9lrli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uaZaYMnwyMtSXNOMDIYHVPUm1OVtghU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895633310054-dolr75hlkamik90dtbgq6qfj3kn9lrli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

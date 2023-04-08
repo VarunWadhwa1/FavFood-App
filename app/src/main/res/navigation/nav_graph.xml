@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home">
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.favfood.Fragments.FragmentHome"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/account1"
+        android:name="com.example.favfood.Fragments.FragmentProfile"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/order"
+        android:name="com.example.favfood.Fragments.FragmentOrder"
+        android:label="@string/third_fragment_label"
+        tools:layout="@layout/fragment_order" />
+    <fragment
+        android:id="@+id/favItem"
+        android:name="com.example.favfood.Fragments.FragmentFavItem"
+        android:label="@string/fourth_fragment_label"
+        tools:layout="@layout/fragment_fav_item" />
+
+</navigation>

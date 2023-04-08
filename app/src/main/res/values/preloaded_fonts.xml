@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aladin</item>
+        <item>@font/almendra_bold_italic</item>
+        <item>@font/almendra_italic</item>
+        <item>@font/amita_bold</item>
+        <item>@font/asar</item>
+        <item>@font/bubblegum_sans</item>
+        <item>@font/capriola</item>
+        <item>@font/grand_hotel</item>
+        <item>@font/griffy</item>
+    </array>
+</resources>
